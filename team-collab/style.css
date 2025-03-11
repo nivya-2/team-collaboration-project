@@ -1,0 +1,90 @@
+body .main .expenses .left .Today {
+    padding-top: 10%;
+  }
+  body .main .expenses .left .Today .todayhead {
+    display: flex;
+    justify-content: space-between;
+  }
+  body .main .expenses .left .Today .todayhead h5 {
+    margin-left: 2%;
+  }
+  body .main .expenses .left .Today hr {
+    margin: 2%;
+    width: 100%;
+  }
+  body .main .expenses .left .Today .grocery {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+  }
+  body .main .expenses .left .Today .grocery .imagetext {
+    display: flex;
+  }
+  body .main .expenses .left .Today .grocery .imagetext img {
+    width: 7%;
+  }
+  body .main .expenses .left .Today .grocery .imagetext .txt {
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    padding-left: 1.5%;
+  }
+  body .main .expenses .left .Today .grocery .imagetext .txt h5 {
+    font-weight: 500;
+    font-size: small;
+  }
+  body .main .expenses .left .Today .grocery .imagetext .txt p {
+    font-weight: 200;
+    font-size: smaller;
+  }
+  body .main .expenses .left .Today .transportation {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+  }
+  body .main .expenses .left .Today .transportation .imagetext {
+    display: flex;
+  }
+  body .main .expenses .left .Today .transportation .imagetext img {
+    width: 7%;
+  }
+  body .main .expenses .left .Today .transportation .imagetext .txt {
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    padding-left: 1.5%;
+  }
+  body .main .expenses .left .Today .transportation .imagetext .txt h5 {
+    font-weight: 500;
+    font-size: small;
+  }
+  body .main .expenses .left .Today .transportation .imagetext .txt p {
+    font-weight: 200;
+    font-size: smaller;
+  }
+  body .main .expenses .left .Today .housing {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+  }
+  body .main .expenses .left .Today .housing .imagetext {
+    display: flex;
+  }
+  body .main .expenses .left .Today .housing .imagetext img {
+    width: 7%;
+  }
+  body .main .expenses .left .Today .housing .imagetext .txt {
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    padding-left: 1.5%;
+  }
+  body .main .expenses .left .Today .housing .imagetext .txt h5 {
+    font-weight: 500;
+    font-size: small;
+  }
+  body .main .expenses .left .Today .housing .imagetext .txt p {
+    font-weight: 200;
+    font-size: smaller;
+  }
+  
